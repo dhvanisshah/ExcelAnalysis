@@ -1,0 +1,5 @@
+Sample Set Name							
+Run1							
+Sample Set Name	SampleName	Name	Amount	Area	Height	USP Tailing	Width @ 10%
+	
+
